@@ -4,6 +4,8 @@ We will use word embeddings (word vectors) to represent words and use document s
 
 Because word embeddings (i.e. word vectors) are very computationally expensive to train, most machine learning practitioners will load a pre-trained set of embeddings. We will load a collection of pre-trained embeddings and measure similarity between word embeddings, and use the similarity measures to solve word analogy problems.
 
+I did this project in the [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) course as part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
+
 ## Pre-trained word vectors
 We will use 50-dimensional [GloVe](https://nlp.stanford.edu/projects/glove) vectors to represent words.
 
